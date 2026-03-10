@@ -6,7 +6,7 @@ The legacy of my work and the program of courses at the Department of Mathematic
 
 # FAMCS Academic Archive
 
- @misc{nanochat,
+ @misc{ReadMEfile,
   author = {Alexander Evdokimov},
   title = {Выкрал оформление у Alexander Evdokimov},
   year = {2026},
